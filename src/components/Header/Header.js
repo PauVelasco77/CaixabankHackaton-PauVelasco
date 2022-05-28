@@ -10,7 +10,7 @@ const HeaderWrapper = styled.section`
     font-family: "Montserrat", sans-serif;
     color: #4a35c5;
     font-size: 30px;
-    font-weight: 900;
+    font-weight: 700;
     margin: 0;
   }
 `;

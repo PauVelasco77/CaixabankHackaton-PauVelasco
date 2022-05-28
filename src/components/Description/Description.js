@@ -10,12 +10,14 @@ const DescriptionContainer = styled.section`
     font-size: 24px;
     font-weight: 500;
     margin: 0;
+    color: #00093e;
   }
 
   & p {
     font-size: 14px;
     font-weight: 500;
     margin: 0;
+    color: #00093e;
   }
 `;
 
