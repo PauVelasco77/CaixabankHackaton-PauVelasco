@@ -13,6 +13,10 @@ const CardContainer = styled.section`
   filter: drop-shadow(0px 16px 16px rgba(50, 50, 71, 0.08))
     drop-shadow(0px 24px 32px rgba(50, 50, 71, 0.08));
 
+  :hover {
+    opacity: 0.7;
+  }
+
   & h4 {
     font-weight: 700;
     font-size: 15px;
