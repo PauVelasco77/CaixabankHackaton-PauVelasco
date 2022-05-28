@@ -25,10 +25,11 @@ const CardContainer = styled.section`
   }
 `;
 
-const BigCard = () => {
+const BigCard = ({ children }) => {
   return (
     <CardContainer>
       <h3>Transactions Last Year</h3>
+      {children}
     </CardContainer>
   );
 };
