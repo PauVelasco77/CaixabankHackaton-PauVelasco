@@ -1,4 +1,5 @@
 import "./App.css";
+import BigCard from "./components/BigCard/BigCard";
 import Description from "./components/Description/Description";
 import Header from "./components/Header/Header";
 import NavBar from "./components/NavBar/NavBar";
@@ -10,6 +11,7 @@ function App() {
       <Header />
       <Description />
       <SmallsCardsList />
+      <BigCard />
       <NavBar />
     </>
   );
